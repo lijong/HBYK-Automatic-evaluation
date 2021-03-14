@@ -1,5 +1,12 @@
 # HBYK-Automatic-evaluation
 河北医科大学 教务系统 基于python脚本，自动给老师评教  为你节省时间
+## 网盘链接：
+百度链接：https://pan.baidu.com/s/16TR1nXF-rGnWl2ayOpM5Ag
+提取码：1r47
+复制这段内容后打开百度网盘手机App，操作更方便哦
+## 
+天翼云盘：https://cloud.189.cn/t/AN3u6jyUNNzm（访问码：8goj）
+
 ## 记得先安装chrome （直接百度 下载安装包 安装就行了）
 ## 然后就是打开001.exe
 ![1234](https://tu.eagleye.top/images/2021/03/14/image.png)
